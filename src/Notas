@@ -1,0 +1,8 @@
+Proposta: Realizar um labirinto construído através de pilhas
+Aluno: Claudio Salles
+Turma: BCC – Noturno
+Professora: Marina
+
+Ao selecionar o ponto de partida do labirinto (X, Y) se inicia o movimento. O programa irá procurar por uma posição vazia para ocupar, podendo ir para Baixo>Cima>Direita>Esquerda,
+Se ele encontrar, ele assume aquela posição, se não, ele recua e tenta novamente por um novo caminho até encontrar a saída.
+
